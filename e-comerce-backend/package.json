@@ -1,5 +1,5 @@
 {
-  "name": "jsom-e-com",
+  "name": "e-com",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,10 +7,10 @@
     "start": "node backend/server.js",
     "dev": "nodemon backend/server.js",
     "data:import": "node backend/seederScript",
-    "build": "echo jsom-e-com"
+    "build": "echo e-com"
   },
   "keywords": [],
-  "author": "Mohit Sojitra",
+  "author": "Obe Promise",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
